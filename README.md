@@ -29,6 +29,8 @@ A collection of lessons, challenges, and a project for vanilla python that meets
 
 ### Challenges
 
+Challenges can be completed for skill development points. This unit is out of a total of 15 points.
+
 | Challenge                                            | Level Completed | Checked |
 |------------------------------------------------------|-----------------|---------|
 | Challenge 01 - User Inputs and Printing              |                 |         |
