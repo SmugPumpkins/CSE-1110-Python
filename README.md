@@ -1,7 +1,6 @@
 # Firstname Lastinitial
 
-## CSE-1110-Python
-A collection of lessons, challenges, and a project for vanilla python that meets the criteria of CSE 1110 for Alberta.
+## Python (CSE 1110)
 
 ## Unit Checklist
 
